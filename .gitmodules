@@ -1,15 +1,15 @@
 [submodule "libs/tracy"]
 	path = libs/tracy
-	url = git@github.com:wolfpld/tracy.git
+	url = https://github.com/wolfpld/tracy.git
 [submodule "libs/fmt"]
 	path = libs/fmt
-	url = git@github.com:fmtlib/fmt.git
+	url = https://github.com/fmtlib/fmt.git
 [submodule "libs/imgui"]
 	path = libs/imgui
-	url = git@github.com:ocornut/imgui.git
+	url = https://github.com/ocornut/imgui.git
 [submodule "libs/asmjit"]
 	path = libs/asmjit
-	url = git@github.com:asmjit/asmjit.git
+	url = https://github.com/asmjit/asmjit.git
 [submodule "libs/doctest"]
 	path = libs/doctest
-	url = git@github.com:doctest/doctest.git
+	url = https://github.com/doctest/doctest.git
